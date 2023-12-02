@@ -7,5 +7,5 @@
 - 💬 Ask me about technology
 - 📫 How to reach me: LinkedIn.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I am currently solveing Leetcode Problems
+- ⚡ Fun fact: I am currently solving Leetcode Problems
 - ☕ Buy me a <a href=https://www.buymeacoffee.com/ToshikSoni>coffee.</a>
